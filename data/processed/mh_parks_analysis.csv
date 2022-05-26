@@ -1,0 +1,822 @@
+city,mh_spaces
+Canyon Lake,1.0
+Aromas,1.0
+Magalia,1.0
+Point Arena,1.0
+Loch Lomond,1.0
+Prattville,1.0
+Holt,1.0
+Beckwourth,1.0
+Scotia,1.0
+Vernalis,1.0
+Duncans Mills,1.0
+Creston,1.0
+Myers Flat,1.0
+Cadiz,1.0
+Lakeshore,2.0
+Banta,2.0
+Dorris,2.0
+Albion,2.0
+Silverado,2.0
+Biggs,2.0
+Paicines,2.0
+177 Leonard Ave,2.0
+1/2 Mi West Of Big Bar,2.0
+8 Mi E Of Taft,2.0
+Fawnskin,2.0
+Bonita,2.0
+Dorrington,2.0
+Copperopolis,3.0
+3 Mi E Of Williams,3.0
+Parlier,3.0
+Nicolaus,3.0
+Wildwood,3.0
+Belden,4.0
+Redcrest,4.0
+Keyes,4.0
+Blairsden,4.0
+Crows Landing,4.0
+Lotus,4.0
+Cartago,4.0
+Chilcoot,4.0
+Crescent Mills,4.0
+Whitmore,5.0
+Victor,5.0
+Fort Jones,5.0
+Elk Creek,5.0
+Hwy 113,5.0
+Rainbow,5.0
+Jenner,5.0
+Meadow Valley,6.0
+Meridian,6.0
+Quail Valley,6.0
+Chalfant Valley,6.0
+Whitethorn,6.0
+Calpine,6.0
+Weott,7.0
+Milford,7.0
+Stonyford,7.0
+Shaver Lake,7.0
+Montgomery Creek,7.0
+Boonville,7.0
+Callahan,8.0
+Guerneville,8.0
+1/2 Mi N Trinity Center,8.0
+Downieville,8.0
+Cedarville,8.0
+Philo,9.0
+Dos Palos,9.0
+Trona,9.0
+Chowchilla,9.0
+Calpella,9.0
+Palo Cedro,9.0
+June Lake,9.0
+Piru,9.0
+Santa Monica,10.0
+Lytle Creek,10.0
+Mad River,10.0
+Glenn,10.0
+Challenge,10.0
+Ripon,11.0
+Doyle,11.0
+Midpines,11.0
+Benton,11.0
+Garberville,12.0
+Big Sur,12.0
+1/2 M/W Of Shingletown,12.0
+Potter Valley,12.0
+Castella,12.0
+Manchester,12.0
+Oregon House,12.0
+Hyampom,12.0
+Robbins,13.0
+Ferndale,13.0
+La Grange,13.0
+Somes Bar,13.0
+Cohasset,14.0
+Manton,14.0
+Topaz,14.0
+San Ardo,14.0
+Gonzales,14.0
+#9,14.0
+Leona Valley,15.0
+Mendocino,15.0
+2Mi N Of Milford,15.0
+Mira Loma,15.0
+Monte Rio,15.0
+Loleta,15.0
+Santa Ynez,15.0
+California Hot Springs,15.0
+French Camp,15.0
+Boyes Springs,15.0
+Helena,15.0
+Forbestown,15.0
+Oro Grande,15.0
+Chiriaco Summit,16.0
+Knights Landing,16.0
+Litchfield,16.0
+Seiad Valley,16.0
+Baywood Park,16.0
+Avalon,17.0
+Miranda,17.0
+Gazelle,17.0
+Kagel Canyon,17.0
+Haddad,18.0
+Bonsall,18.0
+Bieber,18.0
+Cassel,18.0
+Branscomb,18.0
+Arbuckle,18.0
+Ocotillo,19.0
+Shoshone,19.0
+Wrightwood,19.0
+San Juan Bautista,19.0
+Cromberg,19.0
+Big Oak Flat,19.0
+Laytonville,19.0
+Space #1,19.0
+Orick,20.0
+Forest Knolls,20.0
+Lake Almanor,20.0
+Round Mountain,20.0
+Hood,20.0
+Ruth,20.0
+Larkspur,20.0
+East Shore,20.0
+La Honda,20.0
+Hwy 96,20.0
+Jacumba,20.0
+Forest Ranch,20.0
+Likely,20.0
+Adin,20.0
+Twain,20.0
+Badger,20.0
+Loyalton,21.0
+Huron,21.0
+Big Bar,21.0
+Seeley,21.0
+Lake Hughes,21.0
+Tecopa,21.0
+Gerber,21.0
+Meadow Vista,22.0
+Carlotta,22.0
+Burnt Ranch,22.0
+Middletown,23.0
+Avenal,23.0
+Piedra,24.0
+Phillipsville,24.0
+Bodfish,24.0
+Walker,24.0
+Huntington Park,24.0
+Bard,24.0
+Mill Creek,24.0
+Martell,24.0
+Big Pine,24.0
+Rodeo,24.0
+Riverdale,25.0
+Monterey Park,25.0
+Pilot Hill,25.0
+Dillon Beach,25.0
+Sheridan,25.0
+Clearlake Park,25.0
+Salyer,25.0
+Grimes,26.0
+Hornbrook,26.0
+Maxwell,26.0
+Mi Wuk Village,27.0
+Catheys Valley,27.0
+Kelsey,27.0
+Bostonia,27.0
+Olivehurst,28.0
+Williams,28.0
+Weimar,29.0
+Mountain Center,30.0
+Pearblossom,30.0
+Junction City,31.0
+Janesville,31.0
+Friant,32.0
+N San Juan,32.0
+Bodega Bay,32.0
+Forestville,33.0
+Big Bend,33.0
+Georgetown,33.0
+Penngrove,34.0
+Dixon,34.0
+Mendota,35.0
+Woodlake,35.0
+Rough And Ready,35.0
+Twain Harte,35.0
+Lynwood,35.0
+Jurupa Valley,36.0
+Hamilton City,36.0
+Agua Dulce,37.0
+Springville,37.0
+Cobb,37.0
+Hydesville,37.0
+Summerland,38.0
+4 M W Of Lk Henshaw,38.0
+San Joaquin,38.0
+Newberry Springs,38.0
+Vinton,38.0
+Taylorsville,39.0
+Olancha,39.0
+Klamath River,39.0
+Nevada City,40.0
+Boulder Creek,40.0
+Aerial Acres,40.0
+Strathmore,40.0
+Pixley,40.0
+Chester,41.0
+Blue Lake,41.0
+Shasta,41.0
+West Point,42.0
+Angwin,42.0
+Markleeville,42.0
+Graeagle,42.0
+Bridgeport,42.0
+Wilton,42.0
+Leggett,43.0
+Bridgeville,43.0
+Box 435,43.0
+Carmel Valley,43.0
+Pleasant Hill,43.0
+Etna,43.0
+Covelo,43.0
+Lemon Grove,44.0
+Death Valley,44.0
+Gridley,45.0
+Angelus Oaks,45.0
+San Simeon,46.0
+Mcarthur,46.0
+Ben Lomond,46.0
+Shingletown,47.0
+Orleans,47.0
+Santa Nella,47.0
+Hinkley,47.0
+El Nido,47.0
+Halcyon,48.0
+San Miguel,48.0
+Independence,48.0
+Lucerne Valley,48.0
+Railroad Flat,48.0
+Palermo,49.0
+Oakland,49.0
+Lakehead,50.0
+Business,51.0
+East Quincy,51.0
+Boulevard,51.0
+Santa Margarita,52.0
+Fowler,52.0
+Wildomar,52.0
+Canyon Dam,52.0
+Potrero,54.0
+Inyokern,54.0
+Winterhaven,54.0
+Heber,54.0
+Cambria,54.0
+Suisun City,54.0
+Freedom,55.0
+Washington,56.0
+Glenhaven,56.0
+Felton,57.0
+Tahoe Vista,58.0
+Daggett,58.0
+El Sobrante,58.0
+Brownsville,59.0
+Mecca,59.0
+Littlerock,59.0
+Camptonville,59.0
+Hermosa Beach,60.0
+Three Rivers,60.0
+Lockwood,60.0
+Phelan,60.0
+Wheatland,60.0
+Anza,61.0
+Brisbane,61.0
+Greenville,62.0
+Montague,62.0
+Gualala,62.0
+Herlong,63.0
+Dulzura,63.0
+Walnut Grove,63.0
+Hayfork,63.0
+Bass Lake,64.0
+Inglewood,66.0
+Happy Camp,66.0
+Rubidoux,66.0
+Byron,67.0
+Alturas,67.0
+Klamath,67.0
+Delhi,68.0
+Douglas City,69.0
+El Dorado,70.0
+Newman,71.0
+Nipomo,71.0
+Kings Beach,71.0
+Willows,71.0
+Lincoln,71.0
+North Fork,73.0
+Camino,73.0
+Thornton,74.0
+Dobbins,74.0
+Plymouth,75.0
+Healdsburg,75.0
+San Fernando,76.0
+Avery,76.0
+Snelling,77.0
+Lower Lake,77.0
+Trinidad,80.0
+Bell,80.0
+Di Giorgio,80.0
+Redondo Beach,80.0
+Imperial Beach,81.0
+Frazier Park,81.0
+Tulelake,81.0
+Guatay,84.0
+Lakewood,84.0
+Somerset,84.0
+Greenfield,84.0
+Pauma Valley,84.0
+French Gulch,85.0
+Yermo,87.0
+Coulterville,87.0
+Llano,87.0
+Greenbrae,89.0
+Esparto,90.0
+Winters,91.0
+Belmont,91.0
+Rio Dell,92.0
+Lake Arrowhead,93.0
+Pacifica,93.0
+Bradley,93.0
+Office,93.0
+Mccloud,93.0
+Hawthorne,94.0
+Lake View Terrace,94.0
+Lee Vining,95.0
+Mgr'S Off,95.0
+N Palm Springs,96.0
+Redway,96.0
+Artesia,97.0
+Lebec,97.0
+Firebaugh,98.0
+Sun Valley,98.0
+Hughson,100.0
+Oak View,101.0
+Live Oak,101.0
+California City,102.0
+Pacific Grove,103.0
+Leucadia,103.0
+Desert Shores,103.0
+La Quinta,103.0
+Westwood,103.0
+Palo Alto,104.0
+Willow Creek,104.0
+Cayucos,104.0
+Palo Verde,105.0
+Los Alamos,106.0
+Suite A,106.0
+Wasco,107.0
+Desert Center,107.0
+Reseda,108.0
+Baker,109.0
+Los Alamitos,109.0
+Lawndale,110.0
+Auberry,112.0
+Cotati,112.0
+Woodbridge,113.0
+Terra Bella,113.0
+Empire,114.0
+Livingston,114.0
+Santa Ysabel,114.0
+Waterford,115.0
+Jamul,115.0
+Gustine,115.0
+Crowley Lake,115.0
+Kerman,116.0
+Culver City,117.0
+Santa Fe Springs,118.0
+Dunsmuir,118.0
+Winton,119.0
+Denair,120.0
+Corcoran,120.0
+Little River,120.0
+Lewiston,122.0
+Redwood Valley,122.0
+Seal Beach,125.0
+Joshua Tree,126.0
+Weaverville,127.0
+Orosi,128.0
+Havasu Lake,128.0
+Murrieta,128.0
+Lost Hills,128.0
+Portola,128.0
+Patterson,128.0
+Colfax,130.0
+El Dorado Hills,131.0
+Taft,132.0
+Walnut,133.0
+Pine Grove,135.0
+Rio Vista,137.0
+Groveland,137.0
+Shingle Springs,138.0
+Los Gatos,139.0
+Julian,139.0
+Nice,140.0
+Dunlap,140.0
+Duarte,141.0
+Upper Lake,142.0
+Weed,143.0
+Moss Landing,145.0
+S San Francisco,145.0
+Wilmington,146.0
+East Palo Alto,146.0
+Diamond Bar,147.0
+Escalon,148.0
+La Mirada,150.0
+Gasquet,153.0
+Morongo Valley,154.0
+Antelope,154.0
+Mariposa,155.0
+Templeton,156.0
+Lone Pine,160.0
+Penn Valley,161.0
+,163.0
+Avila Beach,163.0
+Cottonwood,166.0
+Valley Springs,168.0
+Northridge,168.0
+Boron,169.0
+Los Angeles,169.0
+Dana Point,169.0
+Grover Beach,170.0
+Cameron Park,170.0
+Mount Laguna,170.0
+Holtville,173.0
+Mammoth Lakes,174.0
+Burney,174.0
+Cloverdale,175.0
+Sebastopol,177.0
+Hilmar,178.0
+Reedley,179.0
+Lockeford,181.0
+Saugus,182.0
+Murphys,183.0
+Colusa,183.0
+Salton City,185.0
+Loomis,185.0
+Laguna Beach,185.0
+Soledad,186.0
+Pioneer,186.0
+Rancho Murieta,189.0
+Downey,190.0
+Exeter,190.0
+Acampo,192.0
+Kernville,194.0
+Calexico,196.0
+Mount Shasta,197.0
+Westlake Village,197.0
+Shafter,198.0
+Crestline,198.0
+Montebello,199.0
+Woodland Hills,199.0
+San Andreas,200.0
+Elk Grove,202.0
+Clayton,203.0
+West Hills,203.0
+Coarsegold,203.0
+Solvang,204.0
+Dunnigan,213.0
+Lucerne,214.0
+Angels Camp,218.0
+Agoura,220.0
+Alpine,222.0
+Lamont,224.0
+Calabasas,224.0
+Kingsburg,224.0
+Wofford Heights,224.0
+Acton,225.0
+Temecula,225.0
+Moss Beach,227.0
+Arvin,228.0
+Smith River,229.0
+Idyllwild,229.0
+Newcastle,231.0
+Newhall,231.0
+North Hollywood,231.0
+Quincy,234.0
+Lindsay,235.0
+Rosemead,235.0
+Orcutt,235.0
+Topanga,236.0
+Columbia,238.0
+South Gate,239.0
+Monrovia,239.0
+Moorpark,240.0
+Mojave,242.0
+San Pedro,242.0
+Campbell,243.0
+Brentwood,245.0
+Granite Bay,246.0
+Riverbank,247.0
+Hawaiian Gardens,247.0
+Thermal,247.0
+Isleton,249.0
+Big Bear City,250.0
+Shasta Lake,251.0
+Laguna Hills,252.0
+Los Molinos,253.0
+Midway City,255.0
+Buena Park,256.0
+Oakhurst,257.0
+Adelanto,257.0
+Saint Helena,259.0
+West Covina,265.0
+Benicia,266.0
+Mentone,272.0
+Baldwin Park,275.0
+Sunland,275.0
+Grand Terrace,276.0
+Cherry Valley,278.0
+Coalinga,283.0
+Clearlake Oaks,284.0
+San Ysidro,288.0
+Jackson,289.0
+Yorba Linda,290.0
+Madera,292.0
+Mission Hills,294.0
+Fortuna,295.0
+Lake Isabella,298.0
+Big Bear Lake,298.0
+Dinuba,301.0
+Foresthill,302.0
+Buellton,308.0
+Orland,309.0
+Delano,310.0
+Castro Valley,310.0
+Yountville,317.0
+Castaic,322.0
+Castroville,330.0
+Oakley,331.0
+Lathrop,333.0
+Fillmore,335.0
+Cypress,340.0
+Galt,343.0
+Yreka,344.0
+Fort Bragg,344.0
+Brawley,344.0
+Thousand Oaks,344.0
+La Mesa,345.0
+Warner Springs,345.0
+Hollister,346.0
+Los Banos,346.0
+Gilroy,349.0
+Truckee,351.0
+Corning,360.0
+Pacific Palisades,360.0
+National City,362.0
+Coachella,362.0
+Selma,366.0
+Pleasanton,371.0
+Fountain Valley,374.0
+Antioch,379.0
+Sanger,380.0
+Tehachapi,383.0
+Susanville,384.0
+Lake Elsinore,386.0
+Beaumont,387.0
+Valley Center,387.0
+Lemoore,392.0
+Menifee,392.0
+S El Monte,392.0
+San Rafael,397.0
+Atascadero,398.0
+Marina,399.0
+King City,400.0
+Orangevale,402.0
+Pico Rivera,405.0
+Willits,407.0
+Bell Gardens,412.0
+San Clemente,413.0
+Cudahy,415.0
+Pismo Beach,416.0
+Half Moon Bay,420.0
+Diamond Springs,421.0
+Parker Dam,424.0
+Pacoima,426.0
+Bethel Island,426.0
+Windsor,437.0
+Norwalk,441.0
+Oceano,443.0
+Livermore,443.0
+Morro Bay,452.0
+Rocklin,454.0
+Hacienda Heights,456.0
+Blythe,459.0
+Pollock Pines,460.0
+Mckinleyville,467.0
+Perris,469.0
+Oakdale,479.0
+Canyon Country,485.0
+Seaside,488.0
+Los Osos,493.0
+Bloomington,496.0
+Daly City,501.0
+Aptos,503.0
+La Habra,510.0
+Rowland Heights,515.0
+Milpitas,521.0
+Roseville,522.0
+Lomita,525.0
+Scotts Valley,529.0
+Niland,529.0
+Loma Linda,530.0
+Davis,531.0
+Ione,534.0
+Tracy,536.0
+Hanford,545.0
+Clearlake,550.0
+Chino,554.0
+Malibu,561.0
+Rancho Cordova,561.0
+Twentynine Palms,568.0
+Van Nuys,569.0
+Jamestown,570.0
+Whittier,583.0
+El Toro,585.0
+Needles,586.0
+Azusa,588.0
+Placentia,595.0
+N Highlands,602.0
+Ramona,616.0
+Woodland,617.0
+Arcata,618.0
+Atwater,628.0
+Tulare,629.0
+Encinitas,631.0
+Chino Hills,632.0
+Chatsworth,638.0
+Goleta,650.0
+Lake Forest,653.0
+Novato,654.0
+Newbury Park,666.0
+Placerville,670.0
+Calistoga,675.0
+South Lake Tahoe,678.0
+Pittsburg,679.0
+Capitola,679.0
+Anderson,691.0
+Poway,696.0
+Turlock,706.0
+Lakeport,712.0
+Eastvale,716.0
+San Pablo,718.0
+Red Bluff,721.0
+Kelseyville,725.0
+Montclair,728.0
+Bay Point,728.0
+Fremont,732.0
+Canoga Park,732.0
+Manteca,734.0
+Soquel,739.0
+Hesperia,741.0
+Earp,742.0
+Glendora,743.0
+Pacheco,744.0
+Tustin,744.0
+Eureka,768.0
+Yucca Valley,772.0
+Santa Paula,775.0
+Marysville,776.0
+Paso Robles,778.0
+Crescent City,781.0
+Fallbrook,791.0
+Newport Beach,795.0
+Sun City,802.0
+Simi Valley,808.0
+Borrego Springs,813.0
+Fullerton,815.0
+Morgan Hill,817.0
+Rancho Mirage,817.0
+Merced,828.0
+Redwood City,834.0
+American Canyon,843.0
+Fairfield,851.0
+Ojai,860.0
+Carpinteria,860.0
+Upland,865.0
+Redlands,865.0
+Clovis,867.0
+La Puente,871.0
+Moreno Valley,872.0
+Petaluma,874.0
+Sonora,874.0
+Folsom,875.0
+Covina,884.0
+Lompoc,887.0
+Arroyo Grande,889.0
+Irvine,893.0
+Union City,896.0
+Lodi,905.0
+San Dimas,906.0
+Ceres,949.0
+Brea,952.0
+Costa Mesa,953.0
+Colton,958.0
+Banning,981.0
+Bishop,994.0
+Auburn,1006.0
+Camarillo,1008.0
+San Leandro,1023.0
+Yuba City,1036.0
+Palm Desert,1064.0
+Ridgecrest,1078.0
+Harbor City,1084.0
+Ukiah,1086.0
+Vacaville,1090.0
+Porterville,1105.0
+Highland,1119.0
+Sonoma,1119.0
+Mountain View,1130.0
+Carlsbad,1141.0
+El Centro,1159.0
+Watsonville,1169.0
+Orange,1172.0
+San Juan Capistrano,1216.0
+Vallejo,1244.0
+Victorville,1248.0
+Grass Valley,1272.0
+Barstow,1296.0
+Stanton,1301.0
+Visalia,1312.0
+Rohnert Park,1316.0
+West Sacramento,1325.0
+Calimesa,1337.0
+Rancho Cucamonga,1356.0
+Indio,1364.0
+Corona,1381.0
+Santa Barbara,1388.0
+Gardena,1389.0
+Concord,1412.0
+Paramount,1418.0
+Bellflower,1423.0
+Fontana,1423.0
+Apple Valley,1427.0
+Torrance,1442.0
+Spring Valley,1483.0
+Garden Grove,1489.0
+Salinas,1497.0
+Rosamond,1500.0
+El Monte,1514.0
+San Luis Obispo,1581.0
+Paradise,1586.0
+Napa,1608.0
+Oroville,1620.0
+Sylmar,1697.0
+Pomona,1706.0
+La Verne,1754.0
+Compton,1769.0
+San Jacinto,1846.0
+Citrus Heights,1886.0
+Vista,1927.0
+Chico,1957.0
+Lakeside,1972.0
+Rialto,1981.0
+Long Beach,2001.0
+Cathedral City,2012.0
+Ontario,2017.0
+Santa Cruz,2026.0
+Palmdale,2098.0
+Santa Clarita,2110.0
+Santa Maria,2201.0
+Carson,2238.0
+Ventura,2244.0
+Santee,2310.0
+Palm Springs,2351.0
+Hayward,2397.0
+Oceanside,2438.0
+Redding,2569.0
+Stockton,2662.0
+Oxnard,2787.0
+Modesto,2866.0
+Westminster,2886.0
+Huntington Beach,2909.0
+Desert Hot Springs,3277.0
+Anaheim,3542.0
+Chula Vista,3566.0
+San Marcos,3590.0
+Santa Rosa,3758.0
+San Bernardino,3861.0
+Sunnyvale,3920.0
+Santa Ana,3977.0
+Escondido,4042.0
+Riverside,4159.0
+Lancaster,4177.0
+Fresno,4192.0
+Yucaipa,4557.0
+Bakersfield,4665.0
+San Diego,4747.0
+El Cajon,5359.0
+Sacramento,6729.0
+Hemet,6987.0
+San Jose,10667.0
