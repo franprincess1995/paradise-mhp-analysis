@@ -4,9 +4,9 @@ For my Stanford Journalism master's thesis, I explored the status of the mobile 
 
 I used three different data sources to answer this question:
 
-* List of mobile home parks permitted by the California Housing and Community Development Department. [Source.]('https://casas.hcd.ca.gov/casas/cmirMp/onlineQuery')
+* List of mobile home parks permitted by the California Housing and Community Development Department. [Source.](https://casas.hcd.ca.gov/casas/cmirMp/onlineQuery)
 * ACS 2018 5-year population estimates by place in California.
-* California places geography. [Source.]('https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html')
+* California places geography. [Source.](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html)
 
 This project uses Python to wrangle and analyze the data. 
 
