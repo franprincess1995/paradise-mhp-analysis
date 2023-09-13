@@ -1,12 +1,6 @@
 ## Paradise MHP Analysis
 
-For my Stanford Journalism master's thesis, I explored the status of the mobile home park rebuilds in Paradise, California, in the aftermath of the 2018 Camp Fire. To identify how  prevalent mobile home parks were in Paradise before the fire, I compared the number of mobile home park lots in the town to other cities in California that had a similar population density pre-fire. 
-
-I used three different data sources to answer this question:
-
-* List of mobile home parks permitted by the California Housing and Community Development Department. [Source.](https://casas.hcd.ca.gov/casas/cmirMp/onlineQuery)
-* ACS 2018 5-year population estimates by place in California. I accessed this data using a function to call from the Census API.
-* California places geography. [Source.](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2018.html)
+For my Stanford Journalism master's thesis, I explored the status of the mobile home park rebuilds in Paradise, California, in the aftermath of the 2018 Camp Fire. To identify how prevalent mobile home parks were in Paradise before the fire, I compared the number of mobile home park lots in the town to other cities in California that had a similar population density pre-fire. 
 
 The data is cleaned and prepared for analysis in ```/notebooks/Wrangling.ipynb```. Analysis follows in ```/notebooks/Analysis.ipynb```.
 
@@ -22,3 +16,5 @@ After creating this project:
 
 * `cd paradise-mhp-analysis`
 * `pipenv install`
+
+This project requires a Census API key, which can be acquired [here.](https://api.census.gov/data/key_signup.html) 
